@@ -1,0 +1,101 @@
+produit,prix,quantité,date,total
+Laptop HP Pavilion,699.99,10,01/01/2024,6999.90
+Laptop Apple MacBook Air,999.99,6,02/01/2024,5999.94
+Laptop Dell Inspiron 15,599.99,12,03/01/2024,7199.88
+Laptop Asus ROG Zephyrus,1499.99,5,04/01/2024,7499.95
+Laptop Lenovo ThinkPad X1,1299.99,7,05/01/2024,9099.93
+Laptop Acer Aspire 5,499.99,15,06/01/2024,7499.85
+Laptop Microsoft Surface Laptop 4,1199.99,4,07/01/2024,4799.96
+Laptop Samsung Galaxy Book,799.99,9,08/01/2024,7199.91
+Laptop HP Spectre x360,1299.99,8,09/01/2024,10399.92
+Laptop Alienware m15,1799.99,6,10/01/2024,10799.94
+Laptop Apple MacBook Pro,1999.99,5,11/01/2024,9999.95
+Laptop Asus ZenBook,899.99,10,12/01/2024,8999.90
+Laptop Dell XPS 13,1099.99,7,13/01/2024,7699.93
+Laptop MSI GF63,799.99,8,14/01/2024,6399.92
+Laptop Lenovo Legion 5,1099.99,6,15/01/2024,6599.94
+Laptop HP Elite Dragonfly,1599.99,10,16/01/2024,15999.90
+Laptop Acer Swift 3,699.99,11,17/01/2024,7699.89
+Laptop Toshiba Dynabook,849.99,5,18/01/2024,4249.95
+Laptop Dell Latitude 7410,1399.99,6,19/01/2024,8399.94
+Laptop LG Gram,999.99,7,20/01/2024,6999.93
+Laptop HP Omen 15,1799.99,4,21/01/2024,7199.96
+Laptop Apple MacBook Pro M1,2499.99,3,22/01/2024,7499.97
+Laptop Razer Blade 15,2299.99,5,23/01/2024,11499.95
+Laptop Microsoft Surface Pro 7,899.99,9,24/01/2024,8099.91
+Laptop Samsung Notebook 9,1099.99,6,25/01/2024,6599.94
+Laptop HP Pavilion x360,749.99,7,26/01/2024,5249.93
+Laptop Lenovo Yoga 9i,1199.99,8,27/01/2024,9599.92
+Laptop Dell G5 15,1299.99,5,28/01/2024,6499.95
+Laptop Asus VivoBook 15,649.99,9,29/01/2024,5849.91
+Laptop Alienware Area-51m,2499.99,4,30/01/2024,9999.96
+Laptop MSI GS66 Stealth,1799.99,6,31/01/2024,10799.94
+Laptop HP Envy 13,999.99,11,01/02/2024,10999.89
+Laptop Lenovo ThinkPad L14,649.99,10,02/02/2024,6499.90
+Laptop Samsung Chromebook 4,249.99,8,03/02/2024,1999.92
+Laptop HP ProBook 450,799.99,7,04/02/2024,5599.93
+Laptop Acer Predator Helios 300,1599.99,5,05/02/2024,7999.95
+Laptop Dell Inspiron 14,749.99,6,06/02/2024,4499.94
+Laptop Apple MacBook Air M2,1099.99,8,07/02/2024,8799.92
+Laptop Asus TUF Gaming A15,1299.99,6,08/02/2024,7799.94
+Laptop HP Spectre 13,1499.99,9,09/02/2024,13499.91
+Laptop Microsoft Surface Laptop Go,549.99,15,10/02/2024,8249.85
+Laptop Lenovo ThinkPad X1 Carbon,1499.99,7,11/02/2024,10499.93
+Laptop MSI GF65 Thin,999.99,8,12/02/2024,7999.92
+Laptop Dell Vostro 15,649.99,6,13/02/2024,3899.94
+Laptop Samsung Galaxy Book Pro,1099.99,10,14/02/2024,10999.90
+Laptop HP EliteBook 840,1199.99,5,15/02/2024,5999.95
+Laptop ASUS ZenBook Flip,1399.99,7,16/02/2024,9799.93
+Laptop Apple MacBook Pro 14,1899.99,6,17/02/2024,11399.94
+Laptop Dell Precision 5550,1999.99,4,18/02/2024,7999.96
+Laptop Razer Blade Stealth 13,1599.99,6,19/02/2024,9599.94
+Laptop HP 15-dy2021nr,499.99,12,20/02/2024,5999.88
+Laptop Asus Chromebook Flip,449.99,11,21/02/2024,4949.89
+Laptop MSI GL65 Leopard,1299.99,5,22/02/2024,6499.95
+Laptop Lenovo IdeaPad 3,599.99,10,23/02/2024,5999.90
+Laptop Acer Aspire 7,899.99,6,24/02/2024,5399.94
+Laptop HP Pavilion 14,799.99,9,25/02/2024,7199.91
+Laptop Apple MacBook Air M1,1099.99,7,26/02/2024,7699.93
+Laptop Dell XPS 15,1599.99,5,27/02/2024,7999.95
+Laptop Asus TUF A17,1099.99,6,28/02/2024,6599.94
+Laptop MSI Prestige 14,1399.99,8,01/03/2024,11199.92
+Laptop Lenovo ThinkPad P1,1899.99,4,02/03/2024,7599.96
+Laptop HP ProBook 430,649.99,10,03/03/2024,6499.90
+Laptop Acer Swift 5,999.99,6,04/03/2024,5999.94
+Laptop Alienware 17 R5,2299.99,5,05/03/2024,11499.95
+Laptop ASUS ROG Strix,1799.99,8,06/03/2024,14399.92
+Laptop Lenovo Legion Y740,1499.99,7,07/03/2024,10499.93
+Laptop Dell XPS 17,1999.99,4,08/03/2024,7999.96
+Laptop HP Elite Dragonfly G2,1599.99,6,09/03/2024,9599.94
+Laptop Microsoft Surface Book 3,1799.99,3,10/03/2024,5399.97
+Laptop Lenovo ThinkPad T14,1099.99,10,11/03/2024,10999.90
+Laptop Acer Nitro 5,1099.99,7,12/03/2024,7699.93
+Laptop Samsung Notebook Odyssey,1199.99,8,13/03/2024,9599.92
+Laptop Apple MacBook Air 2020,999.99,5,14/03/2024,4999.95
+Laptop HP Pavilion Gaming 15,999.99,10,15/03/2024,9999.90
+Laptop Asus ROG Flow Z13,1699.99,6,16/03/2024,10199.94
+Laptop Lenovo Yoga 7i,899.99,9,17/03/2024,8099.91
+Laptop MSI GE66 Raider,1599.99,5,18/03/2024,7999.95
+Laptop Dell Inspiron 11,599.99,12,19/03/2024,7199.88
+Laptop Apple MacBook Pro 13,1499.99,7,20/03/2024,10499.93
+Laptop ASUS TUF Dash,1299.99,6,21/03/2024,7799.94
+Laptop Lenovo ThinkPad X280,749.99,11,22/03/2024,8249.89
+Laptop HP Pavilion 15,799.99,5,23/03/2024,3999.95
+Laptop Apple MacBook Pro 16,2499.99,4,24/03/2024,9999.96
+Laptop Acer Chromebook,299.99,14,25/03/2024,4199.86
+Laptop Dell XPS 12,1299.99,7,26/03/2024,9099.93
+Laptop Lenovo Legion 7i,1699.99,6,27/03/2024,10199.94
+Laptop HP Spectre 15,1799.99,8,28/03/2024,14399.92
+Laptop ASUS ZenBook 14,1099.99,10,29/03/2024,10999.90
+Laptop Dell Vostro 13,799.99,9,30/03/2024,7199.91
+Laptop ASUS TUF Dash,1299.99,6,21/03/2024,7799.94
+Laptop Lenovo ThinkPad X280,749.99,11,22/03/2024,8249.89
+Laptop HP Pavilion 15,799.99,5,23/03/2024,3999.95
+Laptop Apple MacBook Pro 16,2499.99,4,24/03/2024,9999.96
+Laptop Acer Chromebook,299.99,14,25/03/2024,4199.86
+Laptop Dell XPS 12,1299.99,7,26/03/2024,9099.93
+Laptop Lenovo Legion 7i,1699.99,6,27/03/2024,10199.94
+Laptop HP Spectre 15,1799.99,8,28/03/2024,14399.92
+Laptop ASUS ZenBook 14,1099.99,10,29/03/2024,10999.90
+Laptop Dell Vostro 13,799.99,9,30/03/2024,7199.91
+Laptop Samsung Notebook Pro,1399.99,5,31/03/2024,6999.95
